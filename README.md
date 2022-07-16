@@ -1,4 +1,4 @@
-# Script MATKILAU V6-Websocket
+# Script MATKILAU (V6)
  Welcome MAT KILAU😊
 
  <h2 align="center">AutoScript VPN By MATKILAU <img src="https://img.shields.io/badge/Version-6.0-blue.svg"></h2>
