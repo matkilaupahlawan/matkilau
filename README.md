@@ -76,8 +76,8 @@ systemctl restart wg-quick@wg0
   - XRAY Vless Ws Tls       : 443
   - XRAY Vless Tcp Xtls     : 443
   - XRAY Trojan Tcp Tls     : 443
-  - XRAY Vmess Ws None Tls  : 80
-  - XRAY Vless Ws None Tls  : 8080
+  - XRAY Vmess Ws None Tls  : 8080
+  - XRAY Vless Ws None Tls  : 80
   - Trojan Go               : 2083
 
  >>> Server Information & Other Features
